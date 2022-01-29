@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
+  - FxTemporaire
+  - Tower
   layers:
   - Default
   - TransparentFX

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-01-27T16:45:35.321-06:00
-  initializedAtString: 2022-01-27T16:45:35.321-06:00
+  lastUpdatedAtString: 2022-01-29T14:57:36.814-06:00
+  initializedAtString: 2022-01-29T14:57:36.814-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/MRahe/Balloon-Town-Defence.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: Michael-Branch
+    tracking: origin/Michael-Branch
   currentConfigBranch:
-    name: main
+    name: Michael-Branch
     remote:
       name: origin
       url: https://github.com/MRahe/Balloon-Town-Defence.git
-    trackingBranch: main
+    trackingBranch: Michael-Branch
   currentConfigRemote:
     name: origin
     url: https://github.com/MRahe/Balloon-Town-Defence.git
