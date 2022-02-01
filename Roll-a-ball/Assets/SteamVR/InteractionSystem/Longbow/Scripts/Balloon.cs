@@ -42,7 +42,11 @@ namespace Valve.VR.InteractionSystem
         private static float s_flLastDeathSound = 0f;
 
         public float speed = .01f;
-        private int direction = 1; //positive to start
+
+        private float zMax = 4.0f;
+        private float zMin = -4.0f; //starting position
+        private int xDirection = 1; //positive to start
+        private int zDirection = 1; //positive to start
 
 
         //-------------------------------------------------
@@ -67,9 +71,23 @@ namespace Valve.VR.InteractionSystem
                 Destroy(gameObject);
             }
             float xNew = transform.position.x +
-            direction * speed * Time.deltaTime;
+            xDirection * speed * Time.deltaTime;
 
-            transform.position = new Vector3(xNew, 0.75f, 0);
+            float zNew = transform.position.z +
+            zDirection * speed * Time.deltaTime;
+
+            if (zNew >= zMax)
+            {
+                zNew = zMax;
+                zDirection *= -1;
+            }
+            else if (zNew <= zMin)
+            {
+                zNew = zMin;
+                zDirection *= -1;
+            }
+
+            transform.position = new Vector3(xNew, 0.75f, zNew);
         }
 
 

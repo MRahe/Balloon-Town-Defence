@@ -5,9 +5,9 @@ public class Pacer : MonoBehaviour
 {
 
     public float speed = 5.0f;
-    private float zMax = 7.5f;
+    private float zMax = 4.0f;
 
-    private float zMin = -7.5f; //starting position
+    private float zMin = -4.0f; //starting position
     private int direction = 1; //positive to start
 
     void Update()
