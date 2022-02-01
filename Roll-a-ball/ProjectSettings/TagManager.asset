@@ -8,6 +8,8 @@ TagManager:
   - FxTemporaire
   - Tower
   - Balloon
+  - projectile
+  - count
   layers:
   - Default
   - TransparentFX
