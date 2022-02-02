@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
+  - FxTemporaire
+  - Tower
+  - Balloon
+  - projectile
+  - count
+  - GameManager
   layers:
   - Default
   - TransparentFX
