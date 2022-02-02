@@ -5,27 +5,19 @@ using TMPro;
 
 public class Pop : MonoBehaviour
 {
-    public int balloonsPopped;
-    public TextMeshProUGUI balloonCountText;
+    private GameManager gameManager;
+    private TextMeshProUGUI balloonCountText;
 
     // Start is called before the first frame update
     void Start()
     {
-        balloonCountText = GameObject.FindGameObjectWithTag("count").GetComponent<TextMeshProUGUI>();
-        balloonsPopped = 0;
-        setCountText(); 
+        gameManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
     }
 
     public void Bang()
     {
-        print("balloon popped.");
-        balloonsPopped++;
-        setCountText(); 
+        gameManager.updateScore();
     }
 
 
-    void setCountText()
-    {
-        balloonCountText.text = "Balloons Popped " + balloonsPopped.ToString();
-    }
 }

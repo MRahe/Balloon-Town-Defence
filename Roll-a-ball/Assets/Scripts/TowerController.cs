@@ -32,7 +32,7 @@ public class TowerController : MonoBehaviour
     }
 
     
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision other)
     {
         if(other.gameObject.CompareTag("Balloon"))
         {
