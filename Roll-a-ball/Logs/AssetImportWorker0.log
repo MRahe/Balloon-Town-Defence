@@ -599,3 +599,91 @@ Received Import Request.
 Start importing Assets/Materials/Brick.mat using Guid(0560e07183fbe471f9f07d9ef25f8ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32672d528f5acd94c5434ed8a339b0e8') in 0.061148 seconds 
   Import took 0.072369 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 72.480996 seconds.
+  path: Assets/Materials/Dirt.mat
+  artifactKey: Guid(26a2c42b3e5504b4cb911b9c2262f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Dirt.mat using Guid(26a2c42b3e5504b4cb911b9c2262f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46830ddc8eab84b9f2321d295ce068e0') in 0.022666 seconds 
+  Import took 0.027035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.997563 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_AmbientOcclusion.jpg
+  artifactKey: Guid(026f8dd13e69f45209c1f847b252fd61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_AmbientOcclusion.jpg using Guid(026f8dd13e69f45209c1f847b252fd61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2968d2aa41ed967b8a1b52191cff0') in 0.020326 seconds 
+  Import took 0.024529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_Roughness.jpg
+  artifactKey: Guid(624f28a5694104edb85e1777aea0b5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_Roughness.jpg using Guid(624f28a5694104edb85e1777aea0b5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb1f84bbecabf2c2d7ee884390402e8') in 0.019435 seconds 
+  Import took 0.023519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/SteamVR/InteractionSystem/Hints/Textures/HintBackground.png
+  artifactKey: Guid(5697c26ee2ef0c848996640f6a3d3432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Hints/Textures/HintBackground.png using Guid(5697c26ee2ef0c848996640f6a3d3432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cdd0261a5358ecebb45487b73d0c807') in 0.017128 seconds 
+  Import took 0.021139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_NormalGL.jpg
+  artifactKey: Guid(3bc810a0e94da4bd5b8fffc9f1115529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_NormalGL.jpg using Guid(3bc810a0e94da4bd5b8fffc9f1115529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d6f81706dfe78b390a127b8387ced7') in 0.019437 seconds 
+  Import took 0.023080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_Displacement.jpg
+  artifactKey: Guid(c26fc5d8a610a4ee7890f4586ebe1731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_Displacement.jpg using Guid(c26fc5d8a610a4ee7890f4586ebe1731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a74dc952f4269ec81c843194e6eae7') in 0.018740 seconds 
+  Import took 0.023169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_PREVIEW.jpg
+  artifactKey: Guid(634014e1b53c04c4b9a404dff5b3b83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_PREVIEW.jpg using Guid(634014e1b53c04c4b9a404dff5b3b83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd430b267552aa23a0da86e59abb6c0e2') in 0.015847 seconds 
+  Import took 0.019653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_Color.jpg
+  artifactKey: Guid(bf4c63267dba44bab81390cde0cc470b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_Color.jpg using Guid(bf4c63267dba44bab81390cde0cc470b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '923cf5027fd54aab0e2396df54abe59d') in 0.019905 seconds 
+  Import took 0.023868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_NormalDX.jpg
+  artifactKey: Guid(f7391f7d165f74e9ea98a7b5f7a3ee4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_NormalDX.jpg using Guid(f7391f7d165f74e9ea98a7b5f7a3ee4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa6feb8d7b7e3820bafb7b9ea9da3980') in 0.018768 seconds 
+  Import took 0.022896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.063404 seconds.
+  path: Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_NormalDX.jpg
+  artifactKey: Guid(f7391f7d165f74e9ea98a7b5f7a3ee4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Ground047_2K-JPG/Ground047_2K_NormalDX.jpg using Guid(f7391f7d165f74e9ea98a7b5f7a3ee4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '586a7912866f7f9cb70db4a0351f34f6') in 0.022929 seconds 
+  Import took 0.027228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.275527 seconds.
+  path: Assets/Materials/Dirt.mat
+  artifactKey: Guid(26a2c42b3e5504b4cb911b9c2262f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Dirt.mat using Guid(26a2c42b3e5504b4cb911b9c2262f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aef283376341a93cdbe363601cab31e') in 0.380451 seconds 
+  Import took 0.385306 seconds .
+
