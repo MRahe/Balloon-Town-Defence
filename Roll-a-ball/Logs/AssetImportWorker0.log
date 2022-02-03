@@ -687,3 +687,115 @@ Received Import Request.
 Start importing Assets/Materials/Dirt.mat using Guid(26a2c42b3e5504b4cb911b9c2262f5b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aef283376341a93cdbe363601cab31e') in 0.380451 seconds 
   Import took 0.385306 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 109.597434 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Textures/fabric.png
+  artifactKey: Guid(f38d8e4ac87f9894fae9b325586a30c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Textures/fabric.png using Guid(f38d8e4ac87f9894fae9b325586a30c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b3ebb66be593ba90e65b78382db2be') in 0.022251 seconds 
+  Import took 0.026792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/SteamVR/InteractionSystem/Samples/Textures/fabric nrm.png
+  artifactKey: Guid(7927253fa6653fe4f86150e8a01de6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SteamVR/InteractionSystem/Samples/Textures/fabric nrm.png using Guid(7927253fa6653fe4f86150e8a01de6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3240b05349675b60ac7ff845c8a413') in 0.019742 seconds 
+  Import took 0.023758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.166271 seconds.
+  path: Assets/Materials/Grass.mat
+  artifactKey: Guid(1da72619781a34015ac4f28530e0b1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Grass.mat using Guid(1da72619781a34015ac4f28530e0b1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e2bd736f44159c7d1aadca92b37c15') in 0.016937 seconds 
+  Import took 0.021799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.808669 seconds.
+  path: Assets/Textures_Sophia/Bricks075B_4K-JPG/Bricks075B_4K_NormalDX.jpg
+  artifactKey: Guid(58ab6c76c7433439ba6342bf760394f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Bricks075B_4K-JPG/Bricks075B_4K_NormalDX.jpg using Guid(58ab6c76c7433439ba6342bf760394f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4cadda170f1492e17ffb95ad61eff8b') in 0.018527 seconds 
+  Import took 0.022738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.479204 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_AmbientOcclusion.jpg
+  artifactKey: Guid(c7ffdb6ac3ab44b5f93c45ae5985ddd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_AmbientOcclusion.jpg using Guid(c7ffdb6ac3ab44b5f93c45ae5985ddd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cafca38df17b8c25d599d814e13893') in 0.029237 seconds 
+  Import took 0.033628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_PREVIEW.jpg
+  artifactKey: Guid(109621f50220a4fa1b4d30a9027d499b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_PREVIEW.jpg using Guid(109621f50220a4fa1b4d30a9027d499b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2602b3420b4d282a1662bdc31b73360') in 0.019253 seconds 
+  Import took 0.023117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_Color.jpg
+  artifactKey: Guid(f14f88de36aa04058b40199a2c478554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_Color.jpg using Guid(f14f88de36aa04058b40199a2c478554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9808ff74ada557c0fe117855cc87065') in 0.022718 seconds 
+  Import took 0.026622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_NormalGL.jpg
+  artifactKey: Guid(a9ab170d08cd343249a475fd7c7fc87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_NormalGL.jpg using Guid(a9ab170d08cd343249a475fd7c7fc87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea47ac761d52cb3e97e162cd7e2472d') in 0.025991 seconds 
+  Import took 0.030061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_NormalDX.jpg
+  artifactKey: Guid(d10f4cec7dc804d6d9ca1eb2ec993693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_NormalDX.jpg using Guid(d10f4cec7dc804d6d9ca1eb2ec993693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b6dfdcac70fe561c1009cf0c9ff3575') in 0.023378 seconds 
+  Import took 0.027434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_Roughness.jpg
+  artifactKey: Guid(d95104734d8064cc7ab8356052e31d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_Roughness.jpg using Guid(d95104734d8064cc7ab8356052e31d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3dd40c226910a59c75bad724165a224') in 0.021441 seconds 
+  Import took 0.025482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_Displacement.jpg
+  artifactKey: Guid(336389e69942e45e39b0e7b0a860879d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_Displacement.jpg using Guid(336389e69942e45e39b0e7b0a860879d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13e69afecc023080c66f1c5c4b6a7a2') in 0.021470 seconds 
+  Import took 0.025645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.272732 seconds.
+  path: Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_NormalDX.jpg
+  artifactKey: Guid(d10f4cec7dc804d6d9ca1eb2ec993693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures_Sophia/Grass004_2K-JPG/Grass004_2K_NormalDX.jpg using Guid(d10f4cec7dc804d6d9ca1eb2ec993693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee07dc4e5e090e3da860802cc3d72ca') in 0.024744 seconds 
+  Import took 0.029466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.709281 seconds.
+  path: Assets/Materials/Grass.mat
+  artifactKey: Guid(1da72619781a34015ac4f28530e0b1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Grass.mat using Guid(1da72619781a34015ac4f28530e0b1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0984e63e95fd0fc32af015914e4246') in 0.049290 seconds 
+  Import took 0.055242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Materials/Walls.mat
+  artifactKey: Guid(e72c7affdc573d345a0c3a31fdea2227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls.mat using Guid(e72c7affdc573d345a0c3a31fdea2227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64db07288d396b8e63abf9a33bbb1ba') in 0.031107 seconds 
+  Import took 0.035206 seconds .
+

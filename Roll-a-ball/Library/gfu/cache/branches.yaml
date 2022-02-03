@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-02-03T01:43:35.736-06:00
+  lastUpdatedAtString: 2022-02-03T01:46:10.221-06:00
   initializedAtString: 2022-02-03T01:39:50.783-06:00
   localBranches:
   - name: Sophia_branch
@@ -22,6 +22,8 @@ MonoBehaviour:
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Sophia_branch
     tracking: '[None]'
   remotes:
   - name: origin
@@ -52,9 +54,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - Sophia_branch
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/MRahe/Balloon-Town-Defence.git
+        trackingBranch: 
+      - name: Sophia_branch
         remote:
           name: origin
           url: https://github.com/MRahe/Balloon-Town-Defence.git
