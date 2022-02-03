@@ -13,312 +13,975 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-02T22:28:22.207-06:00
-  initializedAtString: 2022-02-02T22:00:00.975-06:00
+  lastUpdatedAtString: 2022-02-03T10:39:14.710-06:00
+  initializedAtString: 2022-02-03T10:12:09.818-06:00
   entries:
-  - path: Roll-a-ball\Assets\castle_v02.fbx.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\castle_v02.fbx.meta
-    projectPath: Assets\castle_v02.fbx.meta
+  - path: Roll-a-ball/Assets/Free_Trees.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees.meta
+    projectPath: Assets/Free_Trees.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Assets\path_v01.fbx.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\path_v01.fbx.meta
-    projectPath: Assets\path_v01.fbx.meta
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes.meta
+    projectPath: Assets/Free_Trees/Meshes.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Assets\path_v02.fbx.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\path_v02.fbx.meta
-    projectPath: Assets\path_v02.fbx.meta
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Fir_Tree.fbx
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Fir_Tree.fbx
+    projectPath: Assets/Free_Trees/Meshes/Fir_Tree.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Assets\platform_v02.fbx.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\platform_v02.fbx.meta
-    projectPath: Assets\platform_v02.fbx.meta
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Fir_Tree.fbx.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Fir_Tree.fbx.meta
+    projectPath: Assets/Free_Trees/Meshes/Fir_Tree.fbx.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Assets\Scenes\MiniGame.unity
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\Scenes\MiniGame.unity
-    projectPath: Assets\Scenes\MiniGame.unity
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Materials.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Materials.meta
+    projectPath: Assets/Free_Trees/Meshes/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Materials/Free_Tree.mat
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Materials/Free_Tree.mat
+    projectPath: Assets/Free_Trees/Meshes/Materials/Free_Tree.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Materials/Free_Tree.mat.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Materials/Free_Tree.mat.meta
+    projectPath: Assets/Free_Trees/Meshes/Materials/Free_Tree.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Materials/No Name.mat
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Materials/No
+      Name.mat
+    projectPath: Assets/Free_Trees/Meshes/Materials/No Name.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Materials/No Name.mat.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Materials/No
+      Name.mat.meta
+    projectPath: Assets/Free_Trees/Meshes/Materials/No Name.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Oak_Tree.fbx
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Oak_Tree.fbx
+    projectPath: Assets/Free_Trees/Meshes/Oak_Tree.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Oak_Tree.fbx.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Oak_Tree.fbx.meta
+    projectPath: Assets/Free_Trees/Meshes/Oak_Tree.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Palm_Tree.fbx
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Palm_Tree.fbx
+    projectPath: Assets/Free_Trees/Meshes/Palm_Tree.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Palm_Tree.fbx.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Palm_Tree.fbx.meta
+    projectPath: Assets/Free_Trees/Meshes/Palm_Tree.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Poplar_Tree.fbx
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Poplar_Tree.fbx
+    projectPath: Assets/Free_Trees/Meshes/Poplar_Tree.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Meshes/Poplar_Tree.fbx.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Meshes/Poplar_Tree.fbx.meta
+    projectPath: Assets/Free_Trees/Meshes/Poplar_Tree.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs.meta
+    projectPath: Assets/Free_Trees/Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Fir_Tree.prefab
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Fir_Tree.prefab
+    projectPath: Assets/Free_Trees/Prefabs/Fir_Tree.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Fir_Tree.prefab.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Fir_Tree.prefab.meta
+    projectPath: Assets/Free_Trees/Prefabs/Fir_Tree.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Oak_Tree.prefab
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Oak_Tree.prefab
+    projectPath: Assets/Free_Trees/Prefabs/Oak_Tree.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Oak_Tree.prefab.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Oak_Tree.prefab.meta
+    projectPath: Assets/Free_Trees/Prefabs/Oak_Tree.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Palm_Tree.prefab
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Palm_Tree.prefab
+    projectPath: Assets/Free_Trees/Prefabs/Palm_Tree.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Palm_Tree.prefab.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Palm_Tree.prefab.meta
+    projectPath: Assets/Free_Trees/Prefabs/Palm_Tree.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Poplar_Tree.prefab
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Poplar_Tree.prefab
+    projectPath: Assets/Free_Trees/Prefabs/Poplar_Tree.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Prefabs/Poplar_Tree.prefab.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Prefabs/Poplar_Tree.prefab.meta
+    projectPath: Assets/Free_Trees/Prefabs/Poplar_Tree.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Scenes.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Scenes.meta
+    projectPath: Assets/Free_Trees/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Scenes/Demo.unity
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Scenes/Demo.unity
+    projectPath: Assets/Free_Trees/Scenes/Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Scenes/Demo.unity.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Scenes/Demo.unity.meta
+    projectPath: Assets/Free_Trees/Scenes/Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Scenes/DemoSettings.lighting
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Scenes/DemoSettings.lighting
+    projectPath: Assets/Free_Trees/Scenes/DemoSettings.lighting
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Scenes/DemoSettings.lighting.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Scenes/DemoSettings.lighting.meta
+    projectPath: Assets/Free_Trees/Scenes/DemoSettings.lighting.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Textures.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Textures.meta
+    projectPath: Assets/Free_Trees/Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Textures/tree_diffuse.png
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Textures/tree_diffuse.png
+    projectPath: Assets/Free_Trees/Textures/tree_diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/Free_Trees/Textures/tree_diffuse.png.meta
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/Free_Trees/Textures/tree_diffuse.png.meta
+    projectPath: Assets/Free_Trees/Textures/tree_diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Assets/New Terrain.asset
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Assets/New
+      Terrain.asset
+    projectPath: Assets/New Terrain.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
-    projectPath: Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
+  - path: Roll-a-ball/Library/ArtifactDB
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\ArtifactDB
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
+  - path: Roll-a-ball/Library/ArtifactDB-lock
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
-    projectPath: Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
+  - path: Roll-a-ball/Library/Artifacts/05/058ee42f6bdc4bc24810a85703fe6df6
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/05/058ee42f6bdc4bc24810a85703fe6df6
+    projectPath: Library/Artifacts/05/058ee42f6bdc4bc24810a85703fe6df6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
-    projectPath: Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
+  - path: Roll-a-ball/Library/Artifacts/07/07421b238237340367a11d0a2e5c9255
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/07/07421b238237340367a11d0a2e5c9255
+    projectPath: Library/Artifacts/07/07421b238237340367a11d0a2e5c9255
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
-    projectPath: Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
+  - path: Roll-a-ball/Library/Artifacts/07/0750c627ff06be1c2e6e859ecf8cbe85
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/07/0750c627ff06be1c2e6e859ecf8cbe85
+    projectPath: Library/Artifacts/07/0750c627ff06be1c2e6e859ecf8cbe85
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/0b/0b429548415f58a9f4071bdd19c9ce33
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/0b/0b429548415f58a9f4071bdd19c9ce33
+    projectPath: Library/Artifacts/0b/0b429548415f58a9f4071bdd19c9ce33
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
-    projectPath: Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
+  - path: Roll-a-ball/Library/Artifacts/0f/0f2ffc47b32e20daafb194dc53926bcb
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/0f/0f2ffc47b32e20daafb194dc53926bcb
+    projectPath: Library/Artifacts/0f/0f2ffc47b32e20daafb194dc53926bcb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
-    projectPath: Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
+  - path: Roll-a-ball/Library/Artifacts/11/11adf83a355b3b21353df686584a8038
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/11/11adf83a355b3b21353df686584a8038
+    projectPath: Library/Artifacts/11/11adf83a355b3b21353df686584a8038
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\63\63745cca9881a54d32a13649b8750026
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\63\63745cca9881a54d32a13649b8750026
-    projectPath: Library\Artifacts\63\63745cca9881a54d32a13649b8750026
+  - path: Roll-a-ball/Library/Artifacts/17/17f81c603579b20f60f1db5675c40501
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/17/17f81c603579b20f60f1db5675c40501
+    projectPath: Library/Artifacts/17/17f81c603579b20f60f1db5675c40501
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
-    projectPath: Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
+  - path: Roll-a-ball/Library/Artifacts/1b/1b7ce7ae2f5b09d286b2b915547d1655
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/1b/1b7ce7ae2f5b09d286b2b915547d1655
+    projectPath: Library/Artifacts/1b/1b7ce7ae2f5b09d286b2b915547d1655
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/1c/1c91b53af435cbe2b08e52a873fda605
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/1c/1c91b53af435cbe2b08e52a873fda605
+    projectPath: Library/Artifacts/1c/1c91b53af435cbe2b08e52a873fda605
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
-    projectPath: Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
+  - path: Roll-a-ball/Library/Artifacts/22/2251ef592b38d2b1eeaf5a7a75df47a5
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/22/2251ef592b38d2b1eeaf5a7a75df47a5
+    projectPath: Library/Artifacts/22/2251ef592b38d2b1eeaf5a7a75df47a5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
-    projectPath: Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
+  - path: Roll-a-ball/Library/Artifacts/23/238bf9f460051edc3aaee91e388c9af6
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/23/238bf9f460051edc3aaee91e388c9af6
+    projectPath: Library/Artifacts/23/238bf9f460051edc3aaee91e388c9af6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
-    projectPath: Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
+  - path: Roll-a-ball/Library/Artifacts/24/24f1cc69e58cafd6d05e2c799e5e1c02
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/24/24f1cc69e58cafd6d05e2c799e5e1c02
+    projectPath: Library/Artifacts/24/24f1cc69e58cafd6d05e2c799e5e1c02
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
-    projectPath: Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
+  - path: Roll-a-ball/Library/Artifacts/27/270d3320a8f442734a83668582aee53c
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/27/270d3320a8f442734a83668582aee53c
+    projectPath: Library/Artifacts/27/270d3320a8f442734a83668582aee53c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
-    projectPath: Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
+  - path: Roll-a-ball/Library/Artifacts/28/280035cd454b0c76fe406fd2505b56a0
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/28/280035cd454b0c76fe406fd2505b56a0
+    projectPath: Library/Artifacts/28/280035cd454b0c76fe406fd2505b56a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
-    projectPath: Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
+  - path: Roll-a-ball/Library/Artifacts/28/2800448d0158637e06642c2ba5e8fb6a
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/28/2800448d0158637e06642c2ba5e8fb6a
+    projectPath: Library/Artifacts/28/2800448d0158637e06642c2ba5e8fb6a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
-    projectPath: Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
+  - path: Roll-a-ball/Library/Artifacts/2a/2ad476d63be1226c35116f475a81b4f1
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/2a/2ad476d63be1226c35116f475a81b4f1
+    projectPath: Library/Artifacts/2a/2ad476d63be1226c35116f475a81b4f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/2e/2e00f97a8cbb2af2a8622dc6d1e3903c
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/2e/2e00f97a8cbb2af2a8622dc6d1e3903c
+    projectPath: Library/Artifacts/2e/2e00f97a8cbb2af2a8622dc6d1e3903c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\EditorInstance.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Roll-a-ball/Library/Artifacts/2f/2f06b90a0827aa408299ddae5d5afcf5
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/2f/2f06b90a0827aa408299ddae5d5afcf5
+    projectPath: Library/Artifacts/2f/2f06b90a0827aa408299ddae5d5afcf5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/30/30f2ef889de7674bf312ec84e204b553
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/30/30f2ef889de7674bf312ec84e204b553
+    projectPath: Library/Artifacts/30/30f2ef889de7674bf312ec84e204b553
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Roll-a-ball/Library/Artifacts/33/33626eb7fb2f74a08a372b68f2680385
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/33/33626eb7fb2f74a08a372b68f2680385
+    projectPath: Library/Artifacts/33/33626eb7fb2f74a08a372b68f2680385
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/36/36c0808b8af4cc3c38d8ff14de9a8ee8
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/36/36c0808b8af4cc3c38d8ff14de9a8ee8
+    projectPath: Library/Artifacts/36/36c0808b8af4cc3c38d8ff14de9a8ee8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/44/443dc0f1ca8a62609d082b943239eddb
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/44/443dc0f1ca8a62609d082b943239eddb
+    projectPath: Library/Artifacts/44/443dc0f1ca8a62609d082b943239eddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/44/44d03b974d97576c8462ad812e484a92
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/44/44d03b974d97576c8462ad812e484a92
+    projectPath: Library/Artifacts/44/44d03b974d97576c8462ad812e484a92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/4b/4bf321e2e3c16d64a38cc2b347ad1649
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/4b/4bf321e2e3c16d64a38cc2b347ad1649
+    projectPath: Library/Artifacts/4b/4bf321e2e3c16d64a38cc2b347ad1649
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/4e/4e645366b3b06e2529915be0111465af
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/4e/4e645366b3b06e2529915be0111465af
+    projectPath: Library/Artifacts/4e/4e645366b3b06e2529915be0111465af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/50/50b95f34805209ce9e972086cfd5a7c1
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/50/50b95f34805209ce9e972086cfd5a7c1
+    projectPath: Library/Artifacts/50/50b95f34805209ce9e972086cfd5a7c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/54/5458f96066b7302ebeacd51da0a1c59d
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/54/5458f96066b7302ebeacd51da0a1c59d
+    projectPath: Library/Artifacts/54/5458f96066b7302ebeacd51da0a1c59d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/54/5472add401b5bbc396e83a033538234e
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/54/5472add401b5bbc396e83a033538234e
+    projectPath: Library/Artifacts/54/5472add401b5bbc396e83a033538234e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/57/5769542c61408f9da0c3c8630d5c05ec
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/57/5769542c61408f9da0c3c8630d5c05ec
+    projectPath: Library/Artifacts/57/5769542c61408f9da0c3c8630d5c05ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/59/59c94f828d3034146df7a804c8628947
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/59/59c94f828d3034146df7a804c8628947
+    projectPath: Library/Artifacts/59/59c94f828d3034146df7a804c8628947
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/5b/5b074e36a6c886876a86ff4cd8c530a1
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/5b/5b074e36a6c886876a86ff4cd8c530a1
+    projectPath: Library/Artifacts/5b/5b074e36a6c886876a86ff4cd8c530a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/5d/5d599aa47fa700728f889744ef081c52
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/5d/5d599aa47fa700728f889744ef081c52
+    projectPath: Library/Artifacts/5d/5d599aa47fa700728f889744ef081c52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/5f/5f7f1fc146dc90b89cfca0246a0b6c51
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/5f/5f7f1fc146dc90b89cfca0246a0b6c51
+    projectPath: Library/Artifacts/5f/5f7f1fc146dc90b89cfca0246a0b6c51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/61/614a7e498e7362427b328ec28155114a
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/61/614a7e498e7362427b328ec28155114a
+    projectPath: Library/Artifacts/61/614a7e498e7362427b328ec28155114a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/67/6767cab289962d4532ca328b8eda80a5
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/67/6767cab289962d4532ca328b8eda80a5
+    projectPath: Library/Artifacts/67/6767cab289962d4532ca328b8eda80a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/69/6961d748082fb98b91cb8e0b0ca4cf6f
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/69/6961d748082fb98b91cb8e0b0ca4cf6f
+    projectPath: Library/Artifacts/69/6961d748082fb98b91cb8e0b0ca4cf6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/69/69a9f3ef3e90f1642853c7b21a40b212
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/69/69a9f3ef3e90f1642853c7b21a40b212
+    projectPath: Library/Artifacts/69/69a9f3ef3e90f1642853c7b21a40b212
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/6e/6e3a7b8328a9327baf02d5ee7e89d9a9
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/6e/6e3a7b8328a9327baf02d5ee7e89d9a9
+    projectPath: Library/Artifacts/6e/6e3a7b8328a9327baf02d5ee7e89d9a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/70/705c62b7d5f6b8086283f5d8c903dded
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/70/705c62b7d5f6b8086283f5d8c903dded
+    projectPath: Library/Artifacts/70/705c62b7d5f6b8086283f5d8c903dded
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/73/73bd7b1fa9d29e3d9b6cef40af148d4c
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/73/73bd7b1fa9d29e3d9b6cef40af148d4c
+    projectPath: Library/Artifacts/73/73bd7b1fa9d29e3d9b6cef40af148d4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/74/7417dcbeee29c39dea99701788d5a56d
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/74/7417dcbeee29c39dea99701788d5a56d
+    projectPath: Library/Artifacts/74/7417dcbeee29c39dea99701788d5a56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/74/7425a868cd229af9e4b98aa503350fad
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/74/7425a868cd229af9e4b98aa503350fad
+    projectPath: Library/Artifacts/74/7425a868cd229af9e4b98aa503350fad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/75/751a03318d8def0d9c816ed538391f79
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/75/751a03318d8def0d9c816ed538391f79
+    projectPath: Library/Artifacts/75/751a03318d8def0d9c816ed538391f79
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/7e/7efeba7334c2088191a50f220eb598ba
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/7e/7efeba7334c2088191a50f220eb598ba
+    projectPath: Library/Artifacts/7e/7efeba7334c2088191a50f220eb598ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/7f/7f5a371da4c747156b09805bc35547f1
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/7f/7f5a371da4c747156b09805bc35547f1
+    projectPath: Library/Artifacts/7f/7f5a371da4c747156b09805bc35547f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/81/8142b07615ee9661004f8a6210fe28c9
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/81/8142b07615ee9661004f8a6210fe28c9
+    projectPath: Library/Artifacts/81/8142b07615ee9661004f8a6210fe28c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/82/82eed7aa530aa45f82d1fd04399ed26d
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/82/82eed7aa530aa45f82d1fd04399ed26d
+    projectPath: Library/Artifacts/82/82eed7aa530aa45f82d1fd04399ed26d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/87/870c9c696612468626f1dee8514c93cf
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/87/870c9c696612468626f1dee8514c93cf
+    projectPath: Library/Artifacts/87/870c9c696612468626f1dee8514c93cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/88/88f2a315408251045314afdc66de6b57
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/88/88f2a315408251045314afdc66de6b57
+    projectPath: Library/Artifacts/88/88f2a315408251045314afdc66de6b57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/8a/8a596f7d419265f081943bf137c72ee0
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/8a/8a596f7d419265f081943bf137c72ee0
+    projectPath: Library/Artifacts/8a/8a596f7d419265f081943bf137c72ee0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/8b/8b8f042028b55586a096c3241f02dcd9
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/8b/8b8f042028b55586a096c3241f02dcd9
+    projectPath: Library/Artifacts/8b/8b8f042028b55586a096c3241f02dcd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/8b/8bf8fe096391883a0e3cd24d3d4953d2
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/8b/8bf8fe096391883a0e3cd24d3d4953d2
+    projectPath: Library/Artifacts/8b/8bf8fe096391883a0e3cd24d3d4953d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/9d/9db962092ba3710173a23c1ec21bbc24
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/9d/9db962092ba3710173a23c1ec21bbc24
+    projectPath: Library/Artifacts/9d/9db962092ba3710173a23c1ec21bbc24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/a8/a87fef9ef1b45504185479978be380c5
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/a8/a87fef9ef1b45504185479978be380c5
+    projectPath: Library/Artifacts/a8/a87fef9ef1b45504185479978be380c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/a9/a95daaeef33bcbe235a486610984660f
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/a9/a95daaeef33bcbe235a486610984660f
+    projectPath: Library/Artifacts/a9/a95daaeef33bcbe235a486610984660f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/b8/b8522e37e5f0057fd5f4730709197885
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/b8/b8522e37e5f0057fd5f4730709197885
+    projectPath: Library/Artifacts/b8/b8522e37e5f0057fd5f4730709197885
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/bb/bbd7a1e026277029f09704664427b4a8
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/bb/bbd7a1e026277029f09704664427b4a8
+    projectPath: Library/Artifacts/bb/bbd7a1e026277029f09704664427b4a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/c1/c13fe1e4b11de4296f330df6ee93fb83
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/c1/c13fe1e4b11de4296f330df6ee93fb83
+    projectPath: Library/Artifacts/c1/c13fe1e4b11de4296f330df6ee93fb83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/c7/c74a7de7068538dc5d8364f32f0a70ed
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/c7/c74a7de7068538dc5d8364f32f0a70ed
+    projectPath: Library/Artifacts/c7/c74a7de7068538dc5d8364f32f0a70ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/cc/ccb014fd11bba82cc52fdd8831cef118
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/cc/ccb014fd11bba82cc52fdd8831cef118
+    projectPath: Library/Artifacts/cc/ccb014fd11bba82cc52fdd8831cef118
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/cf/cf2e7a9fbb9645e6683464c055611fbe
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/cf/cf2e7a9fbb9645e6683464c055611fbe
+    projectPath: Library/Artifacts/cf/cf2e7a9fbb9645e6683464c055611fbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/d0/d0348279ad8e16156b6794318286b113
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/d0/d0348279ad8e16156b6794318286b113
+    projectPath: Library/Artifacts/d0/d0348279ad8e16156b6794318286b113
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/d7/d751ce8653ba4119fd09cd0717687a00
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/d7/d751ce8653ba4119fd09cd0717687a00
+    projectPath: Library/Artifacts/d7/d751ce8653ba4119fd09cd0717687a00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/e1/e135f6b1eaf22e90b8c8e48286910058
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/e1/e135f6b1eaf22e90b8c8e48286910058
+    projectPath: Library/Artifacts/e1/e135f6b1eaf22e90b8c8e48286910058
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/e4/e4524e39674604fbabba2600e4183e2f
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/e4/e4524e39674604fbabba2600e4183e2f
+    projectPath: Library/Artifacts/e4/e4524e39674604fbabba2600e4183e2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/e5/e5e1684fa299a9f968610d78d2259559
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/e5/e5e1684fa299a9f968610d78d2259559
+    projectPath: Library/Artifacts/e5/e5e1684fa299a9f968610d78d2259559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/ea/ea1e822ee16ec72c7d51966ab5d9a214
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/ea/ea1e822ee16ec72c7d51966ab5d9a214
+    projectPath: Library/Artifacts/ea/ea1e822ee16ec72c7d51966ab5d9a214
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/ea/ea4955286e41ab553caded015c685403
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/ea/ea4955286e41ab553caded015c685403
+    projectPath: Library/Artifacts/ea/ea4955286e41ab553caded015c685403
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/ea/ea572ce6e2c1857f546f3745d5061035
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/ea/ea572ce6e2c1857f546f3745d5061035
+    projectPath: Library/Artifacts/ea/ea572ce6e2c1857f546f3745d5061035
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/ee/eeb8e4ea742b7bdfe1b13c9eafa958c4
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/ee/eeb8e4ea742b7bdfe1b13c9eafa958c4
+    projectPath: Library/Artifacts/ee/eeb8e4ea742b7bdfe1b13c9eafa958c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/f1/f14ba0c9c960fb0d49eeba8d05bdfb44
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/f1/f14ba0c9c960fb0d49eeba8d05bdfb44
+    projectPath: Library/Artifacts/f1/f14ba0c9c960fb0d49eeba8d05bdfb44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Library/Artifacts/f4/f4b823f10f934dd2d3f93fe6cbaa59e3
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/f4/f4b823f10f934dd2d3f93fe6cbaa59e3
+    projectPath: Library/Artifacts/f4/f4b823f10f934dd2d3f93fe6cbaa59e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/fc/fc1c8b29ba4486cf1d134a970c74ef0a
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/fc/fc1c8b29ba4486cf1d134a970c74ef0a
+    projectPath: Library/Artifacts/fc/fc1c8b29ba4486cf1d134a970c74ef0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/Artifacts/fd/fd63b4c409c54d5c860fd4ef68d687f0
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/Artifacts/fd/fd63b4c409c54d5c860fd4ef68d687f0
+    projectPath: Library/Artifacts/fd/fd63b4c409c54d5c860fd4ef68d687f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/CurrentLayout-default.dwlt
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
+  - path: Roll-a-ball/Library/EditorInstance.json
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+  - path: Roll-a-ball/Library/expandedItems
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/expandedItems
+    projectPath: Library/expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Roll-a-ball/Library/gfu/cache/branches.yaml
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Roll-a-ball/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\SteamVR.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\SteamVR.dll
-    projectPath: Library\ScriptAssemblies\SteamVR.dll
+  - path: Roll-a-ball/Library/gfu/cache/gitlog.yaml
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Roll-a-ball/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\SourceAssetDB
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\SourceAssetDB
-    projectPath: Library\SourceAssetDB
+  - path: Roll-a-ball/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+  - path: Roll-a-ball/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+  - path: Roll-a-ball/Library/InspectorExpandedItems.asset
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Logs\AssetImportWorker0.log
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\AssetImportWorker0.log
-    projectPath: Logs\AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Roll-a-ball/Library/SceneVisibilityState.asset
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: Roll-a-ball/Library/ShaderCache.db
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache.db
+    projectPath: Library/ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Library/ShaderCache/0/069c030103fbb1570a862778c59d8728.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/0/069c030103fbb1570a862778c59d8728.bin
+    projectPath: Library/ShaderCache/0/069c030103fbb1570a862778c59d8728.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\Assembly-CSharp.dll.hash
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\Assembly-CSharp.dll.hash
-    projectPath: Temp\Assembly-CSharp.dll.hash
+  - path: Roll-a-ball/Library/ShaderCache/2/2cfb419ccb15698778deecb708645df8.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/2/2cfb419ccb15698778deecb708645df8.bin
+    projectPath: Library/ShaderCache/2/2cfb419ccb15698778deecb708645df8.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+  - path: Roll-a-ball/Library/ShaderCache/2/2f3420782786db172bbaf47e97072487.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/2/2f3420782786db172bbaf47e97072487.bin
+    projectPath: Library/ShaderCache/2/2f3420782786db172bbaf47e97072487.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\CompilationLog.txt
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\CompilationLog.txt
-    projectPath: Temp\CompilationLog.txt
+  - path: Roll-a-ball/Library/ShaderCache/3/3003d2332f1642e01a68054d820e1f6a.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/3/3003d2332f1642e01a68054d820e1f6a.bin
+    projectPath: Library/ShaderCache/3/3003d2332f1642e01a68054d820e1f6a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\SteamVR.dll.hash
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR.dll.hash
-    projectPath: Temp\SteamVR.dll.hash
+  - path: Roll-a-ball/Library/ShaderCache/4/433920a66afd2fdfe44bd445bcbd5090.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/4/433920a66afd2fdfe44bd445bcbd5090.bin
+    projectPath: Library/ShaderCache/4/433920a66afd2fdfe44bd445bcbd5090.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\SteamVR_Actions.dll.hash
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR_Actions.dll.hash
-    projectPath: Temp\SteamVR_Actions.dll.hash
+  - path: Roll-a-ball/Library/ShaderCache/4/4485f801714ccbd7144cbd02c413ea99.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/4/4485f801714ccbd7144cbd02c413ea99.bin
+    projectPath: Library/ShaderCache/4/4485f801714ccbd7144cbd02c413ea99.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\SteamVR_Editor.dll.hash
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR_Editor.dll.hash
-    projectPath: Temp\SteamVR_Editor.dll.hash
+  - path: Roll-a-ball/Library/ShaderCache/5/50d644f1d465b66c75573b947e24bbc2.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/5/50d644f1d465b66c75573b947e24bbc2.bin
+    projectPath: Library/ShaderCache/5/50d644f1d465b66c75573b947e24bbc2.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\SteamVR_Input_Editor.dll.hash
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR_Input_Editor.dll.hash
-    projectPath: Temp\SteamVR_Input_Editor.dll.hash
+  - path: Roll-a-ball/Library/ShaderCache/5/5bfce6e318db16229c0c77d5f20f007a.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/5/5bfce6e318db16229c0c77d5f20f007a.bin
+    projectPath: Library/ShaderCache/5/5bfce6e318db16229c0c77d5f20f007a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityLockfile
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
+  - path: Roll-a-ball/Library/ShaderCache/7/73e6e30d2d9bd13775d3ac3427740168.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/7/73e6e30d2d9bd13775d3ac3427740168.bin
+    projectPath: Library/ShaderCache/7/73e6e30d2d9bd13775d3ac3427740168.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
-    projectPath: Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
+  - path: Roll-a-ball/Library/ShaderCache/7/7b1ec68d0ce0d89f8c9f2699710311c6.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/7/7b1ec68d0ce0d89f8c9f2699710311c6.bin
+    projectPath: Library/ShaderCache/7/7b1ec68d0ce0d89f8c9f2699710311c6.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
-    projectPath: Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
+  - path: Roll-a-ball/Library/ShaderCache/8/830726dc8c58ea8fe6d1ae7712f199d8.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/8/830726dc8c58ea8fe6d1ae7712f199d8.bin
+    projectPath: Library/ShaderCache/8/830726dc8c58ea8fe6d1ae7712f199d8.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
-    projectPath: Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
+  - path: Roll-a-ball/Library/ShaderCache/8/892315f3b6b7ccefb0a56ed1a9080d83.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/8/892315f3b6b7ccefb0a56ed1a9080d83.bin
+    projectPath: Library/ShaderCache/8/892315f3b6b7ccefb0a56ed1a9080d83.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
-    projectPath: Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
+  - path: Roll-a-ball/Library/ShaderCache/8/8cd537ec9a8e6a8d4a528880b39e140f.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/8/8cd537ec9a8e6a8d4a528880b39e140f.bin
+    projectPath: Library/ShaderCache/8/8cd537ec9a8e6a8d4a528880b39e140f.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
-    projectPath: Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
+  - path: Roll-a-ball/Library/ShaderCache/a/a2bc8d45be59047e39582ea085dda20b.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/a/a2bc8d45be59047e39582ea085dda20b.bin
+    projectPath: Library/ShaderCache/a/a2bc8d45be59047e39582ea085dda20b.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
-    projectPath: Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
+  - path: Roll-a-ball/Library/ShaderCache/c/cd191bdab6e1af80c5c442e78881aa69.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/c/cd191bdab6e1af80c5c442e78881aa69.bin
+    projectPath: Library/ShaderCache/c/cd191bdab6e1af80c5c442e78881aa69.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\workerlic
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\workerlic
-    projectPath: Temp\workerlic
+  - path: Roll-a-ball/Library/ShaderCache/d/d961945bcdeefe7a386f6a475eaca051.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/d/d961945bcdeefe7a386f6a475eaca051.bin
+    projectPath: Library/ShaderCache/d/d961945bcdeefe7a386f6a475eaca051.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Roll-a-ball/Library/ShaderCache/e/ea2379584cb60083c69a7882818640ec.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/e/ea2379584cb60083c69a7882818640ec.bin
+    projectPath: Library/ShaderCache/e/ea2379584cb60083c69a7882818640ec.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Library/ShaderCache/f/f4160c1ecc69a224874ca0d98b8f1793.bin
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/ShaderCache/f/f4160c1ecc69a224874ca0d98b8f1793.bin
+    projectPath: Library/ShaderCache/f/f4160c1ecc69a224874ca0d98b8f1793.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball/Library/SourceAssetDB
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Library/SourceAssetDB-lock
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/AssetImportWorker0.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/AssetImportWorker1-prev.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/AssetImportWorker1-prev.log
+    projectPath: Logs/AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler10.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler10.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler11.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler11.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler4.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler4.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler5.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler5.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler6.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler6.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler7.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler7.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler8.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler8.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler9.log
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Logs/shadercompiler-UnityShaderCompiler9.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/Temp/__Backupscenes/0.backup
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Roll-a-ball/UserSettings/EditorUserSettings.asset
+    fullPath: /Volumes/T7/2022/22School/Spring22/EMAR440/Balloon-Town-Defence/Roll-a-ball/UserSettings/EditorUserSettings.asset
+    projectPath: UserSettings/EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
