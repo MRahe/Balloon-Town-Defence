@@ -87,7 +87,7 @@ namespace Valve.VR.InteractionSystem
                 zDirection *= -1;
             }
 
-            transform.position = new Vector3(xNew, 0.75f, zNew);
+            transform.position = new Vector3(xNew, 0.75f, 0.75f);
         }
 
 

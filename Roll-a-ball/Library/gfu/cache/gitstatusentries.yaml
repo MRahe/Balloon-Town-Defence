@@ -13,18 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-02T15:19:34.711-06:00
-  initializedAtString: 2022-02-02T14:07:20.388-06:00
+  lastUpdatedAtString: 2022-02-02T22:28:22.207-06:00
+  initializedAtString: 2022-02-02T22:00:00.975-06:00
   entries:
-  - path: Roll-a-ball\Assets\castle_v01.fbx.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\castle_v01.fbx.meta
-    projectPath: Assets\castle_v01.fbx.meta
+  - path: Roll-a-ball\Assets\castle_v02.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\castle_v02.fbx.meta
+    projectPath: Assets\castle_v02.fbx.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Assets\platform_v01.fbx.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\platform_v01.fbx.meta
-    projectPath: Assets\platform_v01.fbx.meta
+  - path: Roll-a-ball\Assets\path_v01.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\path_v01.fbx.meta
+    projectPath: Assets\path_v01.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Assets\path_v02.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\path_v02.fbx.meta
+    projectPath: Assets\path_v02.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Assets\platform_v02.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\platform_v02.fbx.meta
+    projectPath: Assets\platform_v02.fbx.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -34,168 +46,114 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
+    projectPath: Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Roll-a-ball\Library\ArtifactDB
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\Artifacts\05\05a7fc648065b9ba63cbfdb14098cccf
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\05\05a7fc648065b9ba63cbfdb14098cccf
-    projectPath: Library\Artifacts\05\05a7fc648065b9ba63cbfdb14098cccf
+  - path: Roll-a-ball\Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
+    projectPath: Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\16\169db73bd1a60167a43d36468890322c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\16\169db73bd1a60167a43d36468890322c
-    projectPath: Library\Artifacts\16\169db73bd1a60167a43d36468890322c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\24\24f5deeee99d0fa492e735e73224b882
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\24\24f5deeee99d0fa492e735e73224b882
-    projectPath: Library\Artifacts\24\24f5deeee99d0fa492e735e73224b882
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\55\55e3d116a0ebb0f3effa29edeca16cf0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\55\55e3d116a0ebb0f3effa29edeca16cf0
-    projectPath: Library\Artifacts\55\55e3d116a0ebb0f3effa29edeca16cf0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\56\56f62f2766f8a0e25b60db5d2e6fcbb9
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\56\56f62f2766f8a0e25b60db5d2e6fcbb9
-    projectPath: Library\Artifacts\56\56f62f2766f8a0e25b60db5d2e6fcbb9
+  - path: Roll-a-ball\Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
+    projectPath: Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\5a\5a4fbc740fda70f1411e4161a8b37e52
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5a\5a4fbc740fda70f1411e4161a8b37e52
-    projectPath: Library\Artifacts\5a\5a4fbc740fda70f1411e4161a8b37e52
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\5b\5b5f8727c972f90b6bd9f7220d594f05
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5b\5b5f8727c972f90b6bd9f7220d594f05
-    projectPath: Library\Artifacts\5b\5b5f8727c972f90b6bd9f7220d594f05
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
-    projectPath: Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\84\84a7fdaf80df4e5a8738f3190f8e9750
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\84\84a7fdaf80df4e5a8738f3190f8e9750
-    projectPath: Library\Artifacts\84\84a7fdaf80df4e5a8738f3190f8e9750
+  - path: Roll-a-ball\Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
+    projectPath: Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\85\85d5f4fe01b6ecf18df79e575242ee60
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\85\85d5f4fe01b6ecf18df79e575242ee60
-    projectPath: Library\Artifacts\85\85d5f4fe01b6ecf18df79e575242ee60
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\86\86b25cb039bf50c74eb3157b4a8e4249
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\86\86b25cb039bf50c74eb3157b4a8e4249
-    projectPath: Library\Artifacts\86\86b25cb039bf50c74eb3157b4a8e4249
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\98\98308c46c303e528081e3fa3d8233689
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\98\98308c46c303e528081e3fa3d8233689
-    projectPath: Library\Artifacts\98\98308c46c303e528081e3fa3d8233689
+  - path: Roll-a-ball\Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
+    projectPath: Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\9e\9e4350d124fd9860e8f07b1fdb46d04f
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\9e\9e4350d124fd9860e8f07b1fdb46d04f
-    projectPath: Library\Artifacts\9e\9e4350d124fd9860e8f07b1fdb46d04f
+  - path: Roll-a-ball\Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
+    projectPath: Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\a7\a7233f5e1cbbfe9f04650acf61b78ef6
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a7\a7233f5e1cbbfe9f04650acf61b78ef6
-    projectPath: Library\Artifacts\a7\a7233f5e1cbbfe9f04650acf61b78ef6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\aa\aa5e3f67a470ef449d91ac15d36232b4
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\aa\aa5e3f67a470ef449d91ac15d36232b4
-    projectPath: Library\Artifacts\aa\aa5e3f67a470ef449d91ac15d36232b4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\c8\c8f307c43366e62264f0fdccb256e3fd
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\c8\c8f307c43366e62264f0fdccb256e3fd
-    projectPath: Library\Artifacts\c8\c8f307c43366e62264f0fdccb256e3fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\e6\e6f9f07c49b23146772a9a8cbba1ad14
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\e6\e6f9f07c49b23146772a9a8cbba1ad14
-    projectPath: Library\Artifacts\e6\e6f9f07c49b23146772a9a8cbba1ad14
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\ef\ef218996f711d3da941551b1ba2990fe
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ef\ef218996f711d3da941551b1ba2990fe
-    projectPath: Library\Artifacts\ef\ef218996f711d3da941551b1ba2990fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\f2\f201e9cfab5b2209c5bdc5689b0240b0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f2\f201e9cfab5b2209c5bdc5689b0240b0
-    projectPath: Library\Artifacts\f2\f201e9cfab5b2209c5bdc5689b0240b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\f2\f25885c91728a661113e90bcae9bcb98
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f2\f25885c91728a661113e90bcae9bcb98
-    projectPath: Library\Artifacts\f2\f25885c91728a661113e90bcae9bcb98
+  - path: Roll-a-ball\Library\Artifacts\63\63745cca9881a54d32a13649b8750026
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\63\63745cca9881a54d32a13649b8750026
+    projectPath: Library\Artifacts\63\63745cca9881a54d32a13649b8750026
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: Roll-a-ball\Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
+    projectPath: Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
+    projectPath: Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
+    projectPath: Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
+    projectPath: Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
+    projectPath: Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
+    projectPath: Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
+    projectPath: Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
+    projectPath: Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Roll-a-ball\Library\EditorInstance.json
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Roll-a-ball\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Roll-a-ball\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -220,24 +178,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\ShaderCache\5\586b88b19aa0617ec87990f92e764d91.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\5\586b88b19aa0617ec87990f92e764d91.bin
-    projectPath: Library\ShaderCache\5\586b88b19aa0617ec87990f92e764d91.bin
+  - path: Roll-a-ball\Library\ScriptAssemblies\SteamVR.dll
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\SteamVR.dll
+    projectPath: Library\ScriptAssemblies\SteamVR.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\a\a11aee5c7ddbb5b44b3e3e34bad6ccef.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\a\a11aee5c7ddbb5b44b3e3e34bad6ccef.bin
-    projectPath: Library\ShaderCache\a\a11aee5c7ddbb5b44b3e3e34bad6ccef.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\a\a25d7d71119f04157d7d6269cd7e8f7a.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\a\a25d7d71119f04157d7d6269cd7e8f7a.bin
-    projectPath: Library\ShaderCache\a\a25d7d71119f04157d7d6269cd7e8f7a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Roll-a-ball\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -266,23 +212,65 @@ MonoBehaviour:
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Roll-a-ball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Roll-a-ball\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\CompilationLog.txt
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\SteamVR.dll.hash
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR.dll.hash
+    projectPath: Temp\SteamVR.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\SteamVR_Actions.dll.hash
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR_Actions.dll.hash
+    projectPath: Temp\SteamVR_Actions.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\SteamVR_Editor.dll.hash
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR_Editor.dll.hash
+    projectPath: Temp\SteamVR_Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\SteamVR_Input_Editor.dll.hash
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\SteamVR_Input_Editor.dll.hash
+    projectPath: Temp\SteamVR_Input_Editor.dll.hash
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -292,9 +280,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-cac4abf37c2e58b4b8393e89c2ab3acc
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-cac4abf37c2e58b4b8393e89c2ab3acc
-    projectPath: Temp\UnityTempFile-cac4abf37c2e58b4b8393e89c2ab3acc
+  - path: Roll-a-ball\Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
+    projectPath: Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
+    projectPath: Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
+    projectPath: Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
+    projectPath: Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
+    projectPath: Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
+    projectPath: Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
