@@ -13,48 +13,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-01T23:05:16.649-06:00
-  initializedAtString: 2022-02-01T22:07:24.095-06:00
+  lastUpdatedAtString: 2022-02-02T22:28:22.207-06:00
+  initializedAtString: 2022-02-02T22:00:00.975-06:00
   entries:
+  - path: Roll-a-ball\Assets\castle_v02.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\castle_v02.fbx.meta
+    projectPath: Assets\castle_v02.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Assets\path_v01.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\path_v01.fbx.meta
+    projectPath: Assets\path_v01.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Assets\path_v02.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\path_v02.fbx.meta
+    projectPath: Assets\path_v02.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Roll-a-ball\Assets\platform_v02.fbx.meta
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\platform_v02.fbx.meta
+    projectPath: Assets\platform_v02.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Roll-a-ball\Assets\Scenes\MiniGame.unity
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\Scenes\MiniGame.unity
     projectPath: Assets\Scenes\MiniGame.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Assets\Scripts\GameManager.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\Scripts\GameManager.cs
-    projectPath: Assets\Scripts\GameManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Assets\Scripts\GameManager.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\Scripts\GameManager.cs.meta
-    projectPath: Assets\Scripts\GameManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Assets\Scripts\Pop.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\Scripts\Pop.cs
-    projectPath: Assets\Scripts\Pop.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Assets\Scripts\TowerController.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\Scripts\TowerController.cs
-    projectPath: Assets\Scripts\TowerController.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Prefabs\Balloon.prefab
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Prefabs\Balloon.prefab
-    projectPath: Assets\SteamVR\InteractionSystem\Longbow\Prefabs\Balloon.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Arrow.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Arrow.cs
-    projectPath: Assets\SteamVR\InteractionSystem\Longbow\Scripts\Arrow.cs
+  - path: Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
+    projectPath: Assets\SteamVR\InteractionSystem\Longbow\Scripts\Balloon.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -64,459 +58,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\Artifacts\03\035ad90e0dd10326dbf359dd09090a0f
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\03\035ad90e0dd10326dbf359dd09090a0f
-    projectPath: Library\Artifacts\03\035ad90e0dd10326dbf359dd09090a0f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\08\08d98307625d4b8d429b0c2fa3f055a8
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\08\08d98307625d4b8d429b0c2fa3f055a8
-    projectPath: Library\Artifacts\08\08d98307625d4b8d429b0c2fa3f055a8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\0a\0a0f027ee6c6ce1a15d5f19faddef136
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\0a\0a0f027ee6c6ce1a15d5f19faddef136
-    projectPath: Library\Artifacts\0a\0a0f027ee6c6ce1a15d5f19faddef136
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\0d\0d4f3cb4b301f2ad7b3c3da93a7aa8f7
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\0d\0d4f3cb4b301f2ad7b3c3da93a7aa8f7
-    projectPath: Library\Artifacts\0d\0d4f3cb4b301f2ad7b3c3da93a7aa8f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\0f\0f0a7579d1f9e2e14d9ceaaf49c9b7a6
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\0f\0f0a7579d1f9e2e14d9ceaaf49c9b7a6
-    projectPath: Library\Artifacts\0f\0f0a7579d1f9e2e14d9ceaaf49c9b7a6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\12\12b8ce494fd67c49e8184d788349a44c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\12\12b8ce494fd67c49e8184d788349a44c
-    projectPath: Library\Artifacts\12\12b8ce494fd67c49e8184d788349a44c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\16\169db73bd1a60167a43d36468890322c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\16\169db73bd1a60167a43d36468890322c
-    projectPath: Library\Artifacts\16\169db73bd1a60167a43d36468890322c
+  - path: Roll-a-ball\Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
+    projectPath: Library\Artifacts\11\112a3f6e70238ac1daa7356aa4544c90
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\1a\1a0085f1a110170b62db72d32098318d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\1a\1a0085f1a110170b62db72d32098318d
-    projectPath: Library\Artifacts\1a\1a0085f1a110170b62db72d32098318d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\1e\1ee176e0f8e9db4ad1cb3fe0cf31a49b
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\1e\1ee176e0f8e9db4ad1cb3fe0cf31a49b
-    projectPath: Library\Artifacts\1e\1ee176e0f8e9db4ad1cb3fe0cf31a49b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\22\226647e2b7c35655bda59723c0de2309
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\22\226647e2b7c35655bda59723c0de2309
-    projectPath: Library\Artifacts\22\226647e2b7c35655bda59723c0de2309
+  - path: Roll-a-ball\Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
+    projectPath: Library\Artifacts\12\128a5c0b4cc54424f7844077ee8f3e6c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\24\24f5deeee99d0fa492e735e73224b882
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\24\24f5deeee99d0fa492e735e73224b882
-    projectPath: Library\Artifacts\24\24f5deeee99d0fa492e735e73224b882
+  - path: Roll-a-ball\Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
+    projectPath: Library\Artifacts\29\296046392a3beda1bb4c776d9585430d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\27\275c62fa987b36166f99d943bfa26634
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\27\275c62fa987b36166f99d943bfa26634
-    projectPath: Library\Artifacts\27\275c62fa987b36166f99d943bfa26634
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\2d\2d76866ab9037687008c0a2454853c35
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\2d\2d76866ab9037687008c0a2454853c35
-    projectPath: Library\Artifacts\2d\2d76866ab9037687008c0a2454853c35
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\2e\2e772e7d9db8b4a909834bacdddae492
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\2e\2e772e7d9db8b4a909834bacdddae492
-    projectPath: Library\Artifacts\2e\2e772e7d9db8b4a909834bacdddae492
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\34\344c12f740904f4b9c4d3427ce9439ef
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\34\344c12f740904f4b9c4d3427ce9439ef
-    projectPath: Library\Artifacts\34\344c12f740904f4b9c4d3427ce9439ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\38\38ce67039f9c28ca035768000532432a
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\38\38ce67039f9c28ca035768000532432a
-    projectPath: Library\Artifacts\38\38ce67039f9c28ca035768000532432a
+  - path: Roll-a-ball\Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
+    projectPath: Library\Artifacts\33\339abbae1da7707abe5da40e5c975759
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\3e\3e1d9167cf518923a348e131bef5da9c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\3e\3e1d9167cf518923a348e131bef5da9c
-    projectPath: Library\Artifacts\3e\3e1d9167cf518923a348e131bef5da9c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\45\45ea08479e2a99f41ee48a4ab314ceb5
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\45\45ea08479e2a99f41ee48a4ab314ceb5
-    projectPath: Library\Artifacts\45\45ea08479e2a99f41ee48a4ab314ceb5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\4b\4b2e84ca5af3ae3afeaf61a56ae2f5cd
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\4b\4b2e84ca5af3ae3afeaf61a56ae2f5cd
-    projectPath: Library\Artifacts\4b\4b2e84ca5af3ae3afeaf61a56ae2f5cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\4d\4d88aef3bb90a3854a1677f1713d6284
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\4d\4d88aef3bb90a3854a1677f1713d6284
-    projectPath: Library\Artifacts\4d\4d88aef3bb90a3854a1677f1713d6284
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\50\508e0a3e395c9fb9c466151532b74cb7
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\50\508e0a3e395c9fb9c466151532b74cb7
-    projectPath: Library\Artifacts\50\508e0a3e395c9fb9c466151532b74cb7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\52\52d62fc578dbb865c080bef286220bee
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\52\52d62fc578dbb865c080bef286220bee
-    projectPath: Library\Artifacts\52\52d62fc578dbb865c080bef286220bee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\55\55e3d116a0ebb0f3effa29edeca16cf0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\55\55e3d116a0ebb0f3effa29edeca16cf0
-    projectPath: Library\Artifacts\55\55e3d116a0ebb0f3effa29edeca16cf0
+  - path: Roll-a-ball\Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
+    projectPath: Library\Artifacts\44\4407d2a1c2f839af3776f9ff8be733ee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\5a\5a4fbc740fda70f1411e4161a8b37e52
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5a\5a4fbc740fda70f1411e4161a8b37e52
-    projectPath: Library\Artifacts\5a\5a4fbc740fda70f1411e4161a8b37e52
+  - path: Roll-a-ball\Library\Artifacts\63\63745cca9881a54d32a13649b8750026
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\63\63745cca9881a54d32a13649b8750026
+    projectPath: Library\Artifacts\63\63745cca9881a54d32a13649b8750026
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\5b\5b5f8727c972f90b6bd9f7220d594f05
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5b\5b5f8727c972f90b6bd9f7220d594f05
-    projectPath: Library\Artifacts\5b\5b5f8727c972f90b6bd9f7220d594f05
+  - path: Roll-a-ball\Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
+    projectPath: Library\Artifacts\63\63a36911621a3c859e8692e3741bcf2b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\5d\5de1af5e18c883bb9a15d5475902165e
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5d\5de1af5e18c883bb9a15d5475902165e
-    projectPath: Library\Artifacts\5d\5de1af5e18c883bb9a15d5475902165e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\5f\5f94b48d7c59f2d149f69c090418c14d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\5f\5f94b48d7c59f2d149f69c090418c14d
-    projectPath: Library\Artifacts\5f\5f94b48d7c59f2d149f69c090418c14d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\64\6455ea86a8da9ab2186105fea2157ec0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\64\6455ea86a8da9ab2186105fea2157ec0
-    projectPath: Library\Artifacts\64\6455ea86a8da9ab2186105fea2157ec0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\70\7090e41f70639a70bfb18b935e8326f9
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\70\7090e41f70639a70bfb18b935e8326f9
-    projectPath: Library\Artifacts\70\7090e41f70639a70bfb18b935e8326f9
+  - path: Roll-a-ball\Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
+    projectPath: Library\Artifacts\7c\7c60bf2ea873155f7b9493a1ae8855b4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\74\7427491eb9fecc495106dbfa14759d60
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\74\7427491eb9fecc495106dbfa14759d60
-    projectPath: Library\Artifacts\74\7427491eb9fecc495106dbfa14759d60
+  - path: Roll-a-ball\Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
+    projectPath: Library\Artifacts\98\98a22b4eec37c6c88563ee3a22361153
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\74\74ae6400d17d77fedeb5f79634e790c6
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\74\74ae6400d17d77fedeb5f79634e790c6
-    projectPath: Library\Artifacts\74\74ae6400d17d77fedeb5f79634e790c6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
-    projectPath: Library\Artifacts\76\7677534e6786aea13b916dbdc18e912d
+  - path: Roll-a-ball\Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
+    projectPath: Library\Artifacts\9d\9d8c104ac2a50e55e27439bd65ef02a8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\76\76e782823d503f492e4de7c4cf571f6a
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\76\76e782823d503f492e4de7c4cf571f6a
-    projectPath: Library\Artifacts\76\76e782823d503f492e4de7c4cf571f6a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\80\805c84630eabf55bd4512a3031fa97f5
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\80\805c84630eabf55bd4512a3031fa97f5
-    projectPath: Library\Artifacts\80\805c84630eabf55bd4512a3031fa97f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\86\86b25cb039bf50c74eb3157b4a8e4249
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\86\86b25cb039bf50c74eb3157b4a8e4249
-    projectPath: Library\Artifacts\86\86b25cb039bf50c74eb3157b4a8e4249
+  - path: Roll-a-ball\Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
+    projectPath: Library\Artifacts\a4\a48fa92f915b32b3df67a999dac49803
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\88\884ed47fb41ca79b1556b7c16db2bec8
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\88\884ed47fb41ca79b1556b7c16db2bec8
-    projectPath: Library\Artifacts\88\884ed47fb41ca79b1556b7c16db2bec8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\8d\8d65563c3cf3dfa578e0d950a1d47332
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\8d\8d65563c3cf3dfa578e0d950a1d47332
-    projectPath: Library\Artifacts\8d\8d65563c3cf3dfa578e0d950a1d47332
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\93\930799d5ccef6ae12ea606f949971d01
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\93\930799d5ccef6ae12ea606f949971d01
-    projectPath: Library\Artifacts\93\930799d5ccef6ae12ea606f949971d01
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\94\943ba92ac5130bcf29858bb64d429b85
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\94\943ba92ac5130bcf29858bb64d429b85
-    projectPath: Library\Artifacts\94\943ba92ac5130bcf29858bb64d429b85
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\a3\a30c854b0e18608fcc48e5dbfc90e474
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a3\a30c854b0e18608fcc48e5dbfc90e474
-    projectPath: Library\Artifacts\a3\a30c854b0e18608fcc48e5dbfc90e474
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\a3\a385f6620ade2af4fd9feb26705bc6ba
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a3\a385f6620ade2af4fd9feb26705bc6ba
-    projectPath: Library\Artifacts\a3\a385f6620ade2af4fd9feb26705bc6ba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\a6\a677a16d5c28b08c54f2f4209b87565e
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a6\a677a16d5c28b08c54f2f4209b87565e
-    projectPath: Library\Artifacts\a6\a677a16d5c28b08c54f2f4209b87565e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\a7\a7233f5e1cbbfe9f04650acf61b78ef6
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\a7\a7233f5e1cbbfe9f04650acf61b78ef6
-    projectPath: Library\Artifacts\a7\a7233f5e1cbbfe9f04650acf61b78ef6
+  - path: Roll-a-ball\Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
+    projectPath: Library\Artifacts\e7\e7ae4d63dc286c84c55fd0a2d2645b4f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\ab\ab0d6b3f6ccfc5d3b915de1ac05ef388
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ab\ab0d6b3f6ccfc5d3b915de1ac05ef388
-    projectPath: Library\Artifacts\ab\ab0d6b3f6ccfc5d3b915de1ac05ef388
+  - path: Roll-a-ball\Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
+    projectPath: Library\Artifacts\f0\f0fc63798bbbdd2ccb076c776886847b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\ab\ab83e82ae96e8e512420b3eafa1b401d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ab\ab83e82ae96e8e512420b3eafa1b401d
-    projectPath: Library\Artifacts\ab\ab83e82ae96e8e512420b3eafa1b401d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\b2\b2526efcb0b90de66cc9175b9c9b27e9
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\b2\b2526efcb0b90de66cc9175b9c9b27e9
-    projectPath: Library\Artifacts\b2\b2526efcb0b90de66cc9175b9c9b27e9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\ba\bada16020d4fc7ad769fcb521efcc2a3
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ba\bada16020d4fc7ad769fcb521efcc2a3
-    projectPath: Library\Artifacts\ba\bada16020d4fc7ad769fcb521efcc2a3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\bc\bc52db1db23cd5c4df969a1a22b11fd0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\bc\bc52db1db23cd5c4df969a1a22b11fd0
-    projectPath: Library\Artifacts\bc\bc52db1db23cd5c4df969a1a22b11fd0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\bd\bd31adaee87c09cc2c70787addec8c8e
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\bd\bd31adaee87c09cc2c70787addec8c8e
-    projectPath: Library\Artifacts\bd\bd31adaee87c09cc2c70787addec8c8e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\bf\bf8492a216ce4e2ad304dfae80604705
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\bf\bf8492a216ce4e2ad304dfae80604705
-    projectPath: Library\Artifacts\bf\bf8492a216ce4e2ad304dfae80604705
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\c6\c65f59d83e86301dbd663578aaa7a016
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\c6\c65f59d83e86301dbd663578aaa7a016
-    projectPath: Library\Artifacts\c6\c65f59d83e86301dbd663578aaa7a016
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\c8\c8f307c43366e62264f0fdccb256e3fd
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\c8\c8f307c43366e62264f0fdccb256e3fd
-    projectPath: Library\Artifacts\c8\c8f307c43366e62264f0fdccb256e3fd
+  - path: Roll-a-ball\Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
+    projectPath: Library\Artifacts\f6\f6ff7f77ca6e3fbf28f9b94ffb8b08e5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\c9\c90cdb9b50bf085c5cf45bf079273872
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\c9\c90cdb9b50bf085c5cf45bf079273872
-    projectPath: Library\Artifacts\c9\c90cdb9b50bf085c5cf45bf079273872
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\c9\c91c176627e97a18bade2453c208c8f0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\c9\c91c176627e97a18bade2453c208c8f0
-    projectPath: Library\Artifacts\c9\c91c176627e97a18bade2453c208c8f0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\ca\caa517f93ab6d19d8ebc958fe85f7527
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ca\caa517f93ab6d19d8ebc958fe85f7527
-    projectPath: Library\Artifacts\ca\caa517f93ab6d19d8ebc958fe85f7527
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\cb\cb2778ab6c640c9897826232a37da0d8
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\cb\cb2778ab6c640c9897826232a37da0d8
-    projectPath: Library\Artifacts\cb\cb2778ab6c640c9897826232a37da0d8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\d0\d012b8a7e454d5c941bb0a9257864944
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\d0\d012b8a7e454d5c941bb0a9257864944
-    projectPath: Library\Artifacts\d0\d012b8a7e454d5c941bb0a9257864944
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\d0\d0e8550f7afb750efffca76949f0b65b
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\d0\d0e8550f7afb750efffca76949f0b65b
-    projectPath: Library\Artifacts\d0\d0e8550f7afb750efffca76949f0b65b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\d4\d4d02bfee1af1df42204d6283db4dfc0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\d4\d4d02bfee1af1df42204d6283db4dfc0
-    projectPath: Library\Artifacts\d4\d4d02bfee1af1df42204d6283db4dfc0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\dc\dc22f62a28b854b1c6971c1c975f9681
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\dc\dc22f62a28b854b1c6971c1c975f9681
-    projectPath: Library\Artifacts\dc\dc22f62a28b854b1c6971c1c975f9681
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\e6\e6f9f07c49b23146772a9a8cbba1ad14
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\e6\e6f9f07c49b23146772a9a8cbba1ad14
-    projectPath: Library\Artifacts\e6\e6f9f07c49b23146772a9a8cbba1ad14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\ea\eac776a6638c0093067e3d77db03b0ad
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ea\eac776a6638c0093067e3d77db03b0ad
-    projectPath: Library\Artifacts\ea\eac776a6638c0093067e3d77db03b0ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\eb\ebbbdadf3eefe7a31d1d1b7a1cbf052c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\eb\ebbbdadf3eefe7a31d1d1b7a1cbf052c
-    projectPath: Library\Artifacts\eb\ebbbdadf3eefe7a31d1d1b7a1cbf052c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\ec\eca5f38cb6d6d0e5ec4d1663c005246e
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ec\eca5f38cb6d6d0e5ec4d1663c005246e
-    projectPath: Library\Artifacts\ec\eca5f38cb6d6d0e5ec4d1663c005246e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\ef\ef218996f711d3da941551b1ba2990fe
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\ef\ef218996f711d3da941551b1ba2990fe
-    projectPath: Library\Artifacts\ef\ef218996f711d3da941551b1ba2990fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\f2\f201e9cfab5b2209c5bdc5689b0240b0
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f2\f201e9cfab5b2209c5bdc5689b0240b0
-    projectPath: Library\Artifacts\f2\f201e9cfab5b2209c5bdc5689b0240b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\Artifacts\f4\f49f740a93cce9f41c3b606e6e6c5852
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f4\f49f740a93cce9f41c3b606e6e6c5852
-    projectPath: Library\Artifacts\f4\f49f740a93cce9f41c3b606e6e6c5852
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\f9\f92b58661e081f14e1ac5dad8f07f5cb
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f9\f92b58661e081f14e1ac5dad8f07f5cb
-    projectPath: Library\Artifacts\f9\f92b58661e081f14e1ac5dad8f07f5cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\f9\f97c4f9f1a1bda7d9f5beee6d92d15e5
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\f9\f97c4f9f1a1bda7d9f5beee6d92d15e5
-    projectPath: Library\Artifacts\f9\f97c4f9f1a1bda7d9f5beee6d92d15e5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\Artifacts\fd\fd1a7b754ef4c50215684d9e6867b22d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Artifacts\fd\fd1a7b754ef4c50215684d9e6867b22d
-    projectPath: Library\Artifacts\fd\fd1a7b754ef4c50215684d9e6867b22d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Roll-a-ball\Library\EditorInstance.json
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Library\expandedItems
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Roll-a-ball\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -538,1059 +172,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Dropdown.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Dropdown.cs
-    projectPath: Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Dropdown.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs
-    projectPath: Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\GraphicRaycaster.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\PackageCache\com.unity.ugui@1.0.0\Tests\Runtime\Dropdown\DropdownTests.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.unity.ugui@1.0.0\Tests\Runtime\Dropdown\DropdownTests.cs
-    projectPath: Library\PackageCache\com.unity.ugui@1.0.0\Tests\Runtime\Dropdown\DropdownTests.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\CHANGELOG.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\CHANGELOG.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\CHANGELOG.md
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\CHANGELOG.md.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\CHANGELOG.md.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\CHANGELOG.md.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Documentation~\com.valvesoftware.unity.openvr.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Documentation~\com.valvesoftware.unity.openvr.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Documentation~\com.valvesoftware.unity.openvr.md
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRBuildProcessor.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRBuildProcessor.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRBuildProcessor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRBuildProcessor.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRBuildProcessor.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRBuildProcessor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRLoaderMetadata.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRLoaderMetadata.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRLoaderMetadata.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRLoaderMetadata.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRLoaderMetadata.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRLoaderMetadata.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsCopier.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsCopier.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsCopier.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsCopier.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsCopier.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsCopier.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsEditor.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsEditor.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsEditor.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsEditor.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsEditor.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\OpenVRSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\Unity.XR.OpenVR.Editor.asmdef
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\Unity.XR.OpenVR.Editor.asmdef
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\Unity.XR.OpenVR.Editor.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\Unity.XR.OpenVR.Editor.asmdef.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\Unity.XR.OpenVR.Editor.asmdef.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Editor\Unity.XR.OpenVR.Editor.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\LICENSE.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\LICENSE.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\LICENSE.md
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\LICENSE.md.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\LICENSE.md.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\LICENSE.md.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\package.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\package.json
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\package.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\package.json.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\package.json.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\package.json.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\README.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\README.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\README.md
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\README.md.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\README.md.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\README.md.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\DeviceLayouts.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\DeviceLayouts.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\DeviceLayouts.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\DeviceLayouts.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\DeviceLayouts.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\DeviceLayouts.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\openvr_api.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\openvr_api.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\openvr_api.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\openvr_api.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\openvr_api.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\openvr_api.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVREvents.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVREvents.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVREvents.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVREvents.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVREvents.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVREvents.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRHelpers.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRHelpers.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRHelpers.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRHelpers.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRHelpers.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRHelpers.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRLoader.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRLoader.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRLoader.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRLoader.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRLoader.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRLoader.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRSettings.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRSettings.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRSettings.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRSettings.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRSettings.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\OpenVRSettings.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\Unity.XR.OpenVR.asmdef
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\Unity.XR.OpenVR.asmdef
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\Unity.XR.OpenVR.asmdef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\Unity.XR.OpenVR.asmdef.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\Unity.XR.OpenVR.asmdef.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\Unity.XR.OpenVR.asmdef.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\UnitySubsystemsManifest.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\UnitySubsystemsManifest.json
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\UnitySubsystemsManifest.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\UnitySubsystemsManifest.json.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\UnitySubsystemsManifest.json.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\UnitySubsystemsManifest.json.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.dbg
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.dbg
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.dbg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.dbg.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.dbg.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\lib\x64\libopenvr_api.so.dbg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.dbg
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.dbg
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.dbg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.dbg.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.dbg.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libopenvr_api.so.dbg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libXRSDKOpenVR.so
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libXRSDKOpenVR.so
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libXRSDKOpenVR.so
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libXRSDKOpenVR.so.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libXRSDKOpenVR.so.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\libXRSDKOpenVR.so.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.sig
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.dll.sig.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.lib
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\openvr_api.lib.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\ucrtbased.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\ucrtbased.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\ucrtbased.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\ucrtbased.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\ucrtbased.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\ucrtbased.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.sig
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.dll.sig.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.exp
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.exp
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.exp
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.exp.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.exp.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.exp.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.lib
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x64\XRSDKOpenVR.lib.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.sig
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.dll.sig.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.lib
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\openvr_api.lib.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\ucrtbased.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\ucrtbased.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\ucrtbased.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\ucrtbased.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\ucrtbased.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\ucrtbased.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.sig
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.dll.sig.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.exp
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.exp
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.exp
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.exp.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.exp.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.exp.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.lib
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@1e5cf9cf422f-1643494997577\Runtime\x86\XRSDKOpenVR.lib.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\CHANGELOG.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\CHANGELOG.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\CHANGELOG.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\CHANGELOG.md.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\CHANGELOG.md.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\CHANGELOG.md.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Documentation~\com.valvesoftware.unity.openvr.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Documentation~\com.valvesoftware.unity.openvr.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Documentation~\com.valvesoftware.unity.openvr.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRBuildProcessor.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRBuildProcessor.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRBuildProcessor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRBuildProcessor.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRBuildProcessor.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRBuildProcessor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRLoaderMetadata.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRLoaderMetadata.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRLoaderMetadata.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRLoaderMetadata.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRLoaderMetadata.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRLoaderMetadata.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsCopier.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsCopier.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsCopier.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsCopier.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsCopier.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsCopier.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsEditor.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsEditor.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsEditor.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsEditor.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\OpenVRSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\Unity.XR.OpenVR.Editor.asmdef
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\Unity.XR.OpenVR.Editor.asmdef
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\Unity.XR.OpenVR.Editor.asmdef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\Unity.XR.OpenVR.Editor.asmdef.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\Unity.XR.OpenVR.Editor.asmdef.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Editor\Unity.XR.OpenVR.Editor.asmdef.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\LICENSE.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\LICENSE.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\LICENSE.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\LICENSE.md.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\LICENSE.md.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\LICENSE.md.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\package.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\package.json
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\package.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\package.json.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\package.json.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\package.json.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\README.md
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\README.md
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\README.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\README.md.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\README.md.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\README.md.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\DeviceLayouts.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\DeviceLayouts.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\DeviceLayouts.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\DeviceLayouts.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\DeviceLayouts.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\DeviceLayouts.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\openvr_api.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\openvr_api.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\openvr_api.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\openvr_api.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\openvr_api.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\openvr_api.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVREvents.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVREvents.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVREvents.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVREvents.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVREvents.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVREvents.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRHelpers.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRHelpers.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRHelpers.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRHelpers.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRHelpers.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRHelpers.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRLoader.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRLoader.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRLoader.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRLoader.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRLoader.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRLoader.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRSettings.cs
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRSettings.cs
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRSettings.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRSettings.cs.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRSettings.cs.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\OpenVRSettings.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\Unity.XR.OpenVR.asmdef
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\Unity.XR.OpenVR.asmdef
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\Unity.XR.OpenVR.asmdef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\Unity.XR.OpenVR.asmdef.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\Unity.XR.OpenVR.asmdef.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\Unity.XR.OpenVR.asmdef.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\UnitySubsystemsManifest.json
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\UnitySubsystemsManifest.json
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\UnitySubsystemsManifest.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\UnitySubsystemsManifest.json.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\UnitySubsystemsManifest.json.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\UnitySubsystemsManifest.json.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.dbg
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.dbg
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.dbg
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.dbg.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.dbg.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\lib\x64\libopenvr_api.so.dbg.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.dbg
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.dbg
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.dbg
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.dbg.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.dbg.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libopenvr_api.so.dbg.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libXRSDKOpenVR.so
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libXRSDKOpenVR.so
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libXRSDKOpenVR.so
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libXRSDKOpenVR.so.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libXRSDKOpenVR.so.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\libXRSDKOpenVR.so.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.sig
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.dll.sig.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.lib
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\openvr_api.lib.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\ucrtbased.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\ucrtbased.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\ucrtbased.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\ucrtbased.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\ucrtbased.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\ucrtbased.dll.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.sig
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.dll.sig.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.exp
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.exp
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.exp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.exp.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.exp.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.exp.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.lib
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x64\XRSDKOpenVR.lib.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.sig
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.dll.sig.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.lib
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\openvr_api.lib.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\ucrtbased.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\ucrtbased.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\ucrtbased.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\ucrtbased.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\ucrtbased.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\ucrtbased.dll.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.sig
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.sig
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.sig
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.sig.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.sig.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.dll.sig.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.exp
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.exp
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.exp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.exp.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.exp.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.exp.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.lib
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.lib
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.lib
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.lib.meta
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.lib.meta
-    projectPath: Library\PackageCache\com.valvesoftware.unity.openvr@8c4ca5cb87a0-1643750207257\Runtime\x86\XRSDKOpenVR.lib.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Roll-a-ball\Library\PackageManager\ProjectCache
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Roll-a-ball\Library\SceneVisibilityState.asset
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1600,234 +184,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\SteamVR_Actions.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\SteamVR_Actions.dll
-    projectPath: Library\ScriptAssemblies\SteamVR_Actions.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\SteamVR_Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\SteamVR_Editor.dll
-    projectPath: Library\ScriptAssemblies\SteamVR_Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\SteamVR_Input_Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\SteamVR_Input_Editor.dll
-    projectPath: Library\ScriptAssemblies\SteamVR_Input_Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\SteamVR_Windows_EditorHelper.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\SteamVR_Windows_EditorHelper.dll
-    projectPath: Library\ScriptAssemblies\SteamVR_Windows_EditorHelper.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.InputSystem.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.InputSystem.dll
-    projectPath: Library\ScriptAssemblies\Unity.InputSystem.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
-    projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.XR.Management.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.XR.Management.dll
-    projectPath: Library\ScriptAssemblies\Unity.XR.Management.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.XR.OpenVR.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.XR.OpenVR.dll
-    projectPath: Library\ScriptAssemblies\Unity.XR.OpenVR.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\Unity.XR.OpenVR.Editor.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\Unity.XR.OpenVR.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.XR.OpenVR.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ScriptMapper
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Library\ShaderCache\0\0d0da0bec05aece6040a290641be4c31.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\0\0d0da0bec05aece6040a290641be4c31.bin
-    projectPath: Library\ShaderCache\0\0d0da0bec05aece6040a290641be4c31.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\4\4fb4d59ade8ec653776b582d516e5d5c.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\4\4fb4d59ade8ec653776b582d516e5d5c.bin
-    projectPath: Library\ShaderCache\4\4fb4d59ade8ec653776b582d516e5d5c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\6\64def8f3388b5db2dc7dade147f9b48a.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\6\64def8f3388b5db2dc7dade147f9b48a.bin
-    projectPath: Library\ShaderCache\6\64def8f3388b5db2dc7dade147f9b48a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\d\d021b0fa0036efee12fe34a2fcb6bf94.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\d\d021b0fa0036efee12fe34a2fcb6bf94.bin
-    projectPath: Library\ShaderCache\d\d021b0fa0036efee12fe34a2fcb6bf94.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\d\d9fcba0dbad65d7c6e15a89504f20899.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\d\d9fcba0dbad65d7c6e15a89504f20899.bin
-    projectPath: Library\ShaderCache\d\d9fcba0dbad65d7c6e15a89504f20899.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\e\ee5f5c741b7222389ee1537e98ec207a.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\e\ee5f5c741b7222389ee1537e98ec207a.bin
-    projectPath: Library\ShaderCache\e\ee5f5c741b7222389ee1537e98ec207a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Roll-a-ball\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\ShaderCache\f\ffe3ce4a82970b7abd93b6e85111a8fd.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\f\ffe3ce4a82970b7abd93b6e85111a8fd.bin
-    projectPath: Library\ShaderCache\f\ffe3ce4a82970b7abd93b6e85111a8fd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Library\ShaderCache\f\fff1fa6bd5b99a41d2afe86e532fa088.bin
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\ShaderCache\f\fff1fa6bd5b99a41d2afe86e532fa088.bin
-    projectPath: Library\ShaderCache\f\fff1fa6bd5b99a41d2afe86e532fa088.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Roll-a-ball\Library\SourceAssetDB
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -1846,81 +208,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\Library\Style.catalog
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Library\Style.catalog
-    projectPath: Library\Style.catalog
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Logs\ApiUpdaterCheck.txt
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\ApiUpdaterCheck.txt
-    projectPath: Logs\ApiUpdaterCheck.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Roll-a-ball\Logs\AssetImportWorker0.log
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\Logs\AssetImportWorker0-prev.log
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\AssetImportWorker0-prev.log
-    projectPath: Logs\AssetImportWorker0-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Roll-a-ball\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Roll-a-ball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Roll-a-ball\ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Roll-a-ball\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Roll-a-ball\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\ApiUpdater_CheckMovedFrom09ed32d6d32a8634386a33325e4646ff
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\ApiUpdater_CheckMovedFrom09ed32d6d32a8634386a33325e4646ff
-    projectPath: Temp\ApiUpdater_CheckMovedFrom09ed32d6d32a8634386a33325e4646ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\ApiUpdater_CheckMovedFrom9a8c3cae37154a245bc3ebd1ec62a337
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\ApiUpdater_CheckMovedFrom9a8c3cae37154a245bc3ebd1ec62a337
-    projectPath: Temp\ApiUpdater_CheckMovedFrom9a8c3cae37154a245bc3ebd1ec62a337
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\ApiUpdater_CheckMovedFromcf83b2154ea508541ba46576517c48da
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\ApiUpdater_CheckMovedFromcf83b2154ea508541ba46576517c48da
-    projectPath: Temp\ApiUpdater_CheckMovedFromcf83b2154ea508541ba46576517c48da
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1972,141 +280,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-0078e7dd25cbcb34e9f64a09dadbaa32
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-0078e7dd25cbcb34e9f64a09dadbaa32
-    projectPath: Temp\UnityTempFile-0078e7dd25cbcb34e9f64a09dadbaa32
+  - path: Roll-a-ball\Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
+    projectPath: Temp\UnityTempFile-12286d808dce59941beb2fa70dcf7db3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-01eaa9c23e36bab44903dff5ff5df1c6
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-01eaa9c23e36bab44903dff5ff5df1c6
-    projectPath: Temp\UnityTempFile-01eaa9c23e36bab44903dff5ff5df1c6
+  - path: Roll-a-ball\Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
+    projectPath: Temp\UnityTempFile-3b885da0d2f3c814c8c9604baf1a3856
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-02c945ab51a05474e9e66bca8037aafc
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-02c945ab51a05474e9e66bca8037aafc
-    projectPath: Temp\UnityTempFile-02c945ab51a05474e9e66bca8037aafc
+  - path: Roll-a-ball\Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
+    projectPath: Temp\UnityTempFile-5964b23d56d4b1b45836381e8aa9f0de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-03ef1c3ff4565dd4dba6896230a31ec2
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-03ef1c3ff4565dd4dba6896230a31ec2
-    projectPath: Temp\UnityTempFile-03ef1c3ff4565dd4dba6896230a31ec2
+  - path: Roll-a-ball\Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
+    projectPath: Temp\UnityTempFile-5d61aec33f36fae4297685647924aefe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-056dee1166dbdf14e9a6973d3353f66c
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-056dee1166dbdf14e9a6973d3353f66c
-    projectPath: Temp\UnityTempFile-056dee1166dbdf14e9a6973d3353f66c
+  - path: Roll-a-ball\Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
+    projectPath: Temp\UnityTempFile-6695054886df7c74e9dd6677bc76170c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-0fc66e302cf6a5443a11b4e71705d388
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-0fc66e302cf6a5443a11b4e71705d388
-    projectPath: Temp\UnityTempFile-0fc66e302cf6a5443a11b4e71705d388
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-19bf9038e8d8ea64fae35acafae43d76
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-19bf9038e8d8ea64fae35acafae43d76
-    projectPath: Temp\UnityTempFile-19bf9038e8d8ea64fae35acafae43d76
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-383408fbb17b40948b07281c078d03e4
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-383408fbb17b40948b07281c078d03e4
-    projectPath: Temp\UnityTempFile-383408fbb17b40948b07281c078d03e4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-56129014397817b4289c4bba47045b83
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-56129014397817b4289c4bba47045b83
-    projectPath: Temp\UnityTempFile-56129014397817b4289c4bba47045b83
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-561fadcaa6fd0174f95fbbebe6e9f4f5
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-561fadcaa6fd0174f95fbbebe6e9f4f5
-    projectPath: Temp\UnityTempFile-561fadcaa6fd0174f95fbbebe6e9f4f5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-648ce08b571016d499cb83344c656d3e
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-648ce08b571016d499cb83344c656d3e
-    projectPath: Temp\UnityTempFile-648ce08b571016d499cb83344c656d3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-69d33a88b914f6544874f2117280e135
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-69d33a88b914f6544874f2117280e135
-    projectPath: Temp\UnityTempFile-69d33a88b914f6544874f2117280e135
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-77415b55842c56e4aa91bc7895b4326b
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-77415b55842c56e4aa91bc7895b4326b
-    projectPath: Temp\UnityTempFile-77415b55842c56e4aa91bc7895b4326b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-854775cd98bce884da764e1c535bb09d
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-854775cd98bce884da764e1c535bb09d
-    projectPath: Temp\UnityTempFile-854775cd98bce884da764e1c535bb09d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-8b03c9e29bc40134cb4ef2fb28c57b15
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-8b03c9e29bc40134cb4ef2fb28c57b15
-    projectPath: Temp\UnityTempFile-8b03c9e29bc40134cb4ef2fb28c57b15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-90aa6de02cb7c6241a527e221c2766d2
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-90aa6de02cb7c6241a527e221c2766d2
-    projectPath: Temp\UnityTempFile-90aa6de02cb7c6241a527e221c2766d2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-b21e58f7d9180c44a9411400879c0730
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-b21e58f7d9180c44a9411400879c0730
-    projectPath: Temp\UnityTempFile-b21e58f7d9180c44a9411400879c0730
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-bd0bf1c3547f2034aa5a189469745f4e
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-bd0bf1c3547f2034aa5a189469745f4e
-    projectPath: Temp\UnityTempFile-bd0bf1c3547f2034aa5a189469745f4e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-c3257bc957f4eb042abb9718152f26cf
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-c3257bc957f4eb042abb9718152f26cf
-    projectPath: Temp\UnityTempFile-c3257bc957f4eb042abb9718152f26cf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-c5a9d6c67a945c6439df7eb7c1c05443
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-c5a9d6c67a945c6439df7eb7c1c05443
-    projectPath: Temp\UnityTempFile-c5a9d6c67a945c6439df7eb7c1c05443
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-c61745d5a2af48843a5b9b2d287f3afb
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-c61745d5a2af48843a5b9b2d287f3afb
-    projectPath: Temp\UnityTempFile-c61745d5a2af48843a5b9b2d287f3afb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-e978a61806af3c54f9f96379cdf45b73
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-e978a61806af3c54f9f96379cdf45b73
-    projectPath: Temp\UnityTempFile-e978a61806af3c54f9f96379cdf45b73
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Roll-a-ball\Temp\UnityTempFile-fc9d6c54dbce6b147a3fb0d9b30ad935
-    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-fc9d6c54dbce6b147a3fb0d9b30ad935
-    projectPath: Temp\UnityTempFile-fc9d6c54dbce6b147a3fb0d9b30ad935
+  - path: Roll-a-ball\Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
+    fullPath: C:\Users\mjrah\source\repos\VR\Balloon-Town-Defence\Roll-a-ball\Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
+    projectPath: Temp\UnityTempFile-8459f5fd6e5aa8a40b3abb8d9e06d5bc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
